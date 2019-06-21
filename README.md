@@ -12,6 +12,8 @@ Sublime Text作为一款编辑器，其自身功能就已经足够优秀，再�
 
 [3.3.1 beta2 测试版](https://github.com/wbond/package_control/releases/tag/3.3.0)
 
+或者直接从[Package Control的Release页](https://github.com/wbond/package_control/releases/)下载。
+
 下载好后解压，将文件夹`package_control-x.x.x`更名为`Package Control`。注意大小写！
 
 打开Sublime Text，点击菜单中的`Preferences`，找到`Browse Packages`，这时候Sublime Text会打开一个文件夹，把刚刚改好名字的`Package Control`文件夹直接复制到这个打开的文件夹中。重启Sublime Text，再次进入菜单中的`Preferences`，如果能看到`Package Settings`和`Package Control`两个选项的话，就说明安装成功了。如果没有看到，可以去本项目的主页[新开一个Issue](https://github.com/Jacky-88/mirror-channel-of-packagecontrol/issues)，我看到后会回复的！
